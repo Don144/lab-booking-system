@@ -1,1 +1,1 @@
-# lab-booking-hub-service
+# lab-booking-system
